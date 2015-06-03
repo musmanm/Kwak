@@ -1,0 +1,75 @@
+% INSULT FILE
+% ANY PHRASES THAT START WITH ! WILL BE ONLY PLACED IN THE MATURE/ADULT SECTION
+% IF AN ADJECTIVE STARTS WITH # THEN IT WILL DISPLAYED WITHOUT A SUBJECT
+% IF AN ADJECTIVE ENDS WITH # THEN IT WILL BE DISPLAYED WITHOUT A NOUN
+% IF AN ADJECTIVE BOTH STARTS AND ENDS WITH # THEN IT IS A PHRASE AND WILL BE SHOWN ALONE
+% IF A NOUN OR ADJECTIVE ENDS WITH @ THEN THE LOCATION WILL BE SHOWN AFTERWARDS
+% NOTE THAT AN ADJECTIVE SHOULD HAVE THE @ BEFORE THE #. I.E IF YOU WANTED TO JUST HAVE AN ADJECTIVE FOLLOWED
+% BY THE LOCATION IT WOULD BE: "#adjective*#"
+
+CLASSICAL
+SUBJECT
+artless,bawdy,beslubbering,bootless,churlish,cockered,clouted,craven,currish,dankish,dissembling,droning,errant,fawning,fobbing,froward,frothy,gleeking,goatish,gorbellied,impertinent,infectious,jarring,loggerheaded,lumpish,mammering,mangled,mewling,paunchy,pribbling,puking,puny,qualling,rank,reeky,roguish,ruttish,saucy,spleeny,spongy,surly,tottering,unmuzzled,vain,venomed,villainous,warped,wayward,weedy,yeasty
+ADJECTIVE
+base-court,bat-fowling,beef-witted,beetle-headed,boil-brained,clapper-clawed,clay-brained,common-kissing,crook-pated,dismal-dreaming,dizzy-eyed,doghearted,dread-bolted,earth-vexing,elf-skinned,fat-kidneyed,fen-sucked,flap-mouthed,fly-bitten,folly-fallen,fool-born,full-gorged,guts-griping,half-faced,hasty-witted,hedge-born,hell-hated,idle-headed,ill-breeding,ill-nurtured,knotty-pated,milk-livered,motley-minded,onion-eyed,plume-plucked,pottle-deep,pox-marked,reeling-ripe,rough-hewn,rude-growing,rump-fed,shard-borne,sheep-biting,spur-galled,swag-bellied,tardy-gaited,tickle-brained,toad-spotted,unchin-snouted,weather-bitten,#your mother was a hamster and your father smelt of elderberries#
+NOUN
+apple-john@,baggage@,barnacle@,bladder@,boar-pig@,bugbear@,bum-bailey@,canker-blossom@,clack-dish@,clotpole@,coxcomb@,codpiece@,death-token@,dewberry@,flap-dragon@,flax-wench@,flirt-gill@,foot-licker@,fustilarian@,giglet@,gudgeon@,haggard@,harpy@,hedge-pig@,horn-beast@,hugger-mugger@,joithead@,lewdster@,lout@,maggot-pie@,malt-worm@,mammet@,measle@,minnow@,miscreant@,moldwarp@,mumble-news@,nut-hook@,pigeon-egg@,pignut@,puttock@,pumpion@,ratsbane@,scut@,skainsmate@,strumpet@,varlot@,vassal@,whey-face@,wagtail@
+LOCATION
+the kingdom,Camelot,London,all the lands,York,Mystras,China,the room,all the King's men
+
+BRITISH
+SUBJECT
+pernicious,reeky,rude,drunk,impudent,uncivilized,ill-mannered,cowardly,troublesome,stinky,smelly,rump-fed,rug-headed,dreadful,unpleasant,dull-spirited,lean-witted,
+ADJECTIVE
+cheese eating surrender monkey#,barmy,dodgy,gormless,manky,naff,daft,lazy,ninny,airy-fairy,mad,plug-ugly,daft as a bush,bloody,pissing
+NOUN
+tosser@,wanker@,!slag@,arsehole@,git@,cow@,minger@,muppet@,nutter@,pillock@,plonker@,prat@,scrubber@,trollop@,!uphill gardener@,twit@,knob head@,bell end@,!sod@,chuffer@,!arsemonger@,!arse-licker@,ankle-biter@,berk@,maggot@,wazzock@,skiver@,!cunt,!pisshead
+LOCATION
+London,York,Hyde Park,Scotland,Cambridge,Oxford,The British Isles,United Kingdom,Dublin,Europe,the current gathering of gentlemen
+
+MAMA
+SUBJECT
+ignore1,ignore2,ignore3
+ADJECTIVE
+#bald even a wig wouldn't help#,#bald you can see what on her mind#,#bald that she took a shower and got brain-washed#,#bald she curls her hair with rice#,#bald Mr. Clean got jealous#,#that when she put on a sweater folks thought she was a roll on deoderant#,!#butch she threw the shot-put in high-school#,!#butch her dick is bigger than mine#,!#butch even her pool table has no balls#,!#butch she makes yo daddy ride bitch on her motorcycle#,!#butch she has a tattoo on her back that says "Who's The Man?"#,#dumb when you stand next to her you hear the ocean#,#dumb she got hit by a cup and told the police she got mugged#,#dumb she tried climbing mountain dew#,#dumb she stood on a chair to raise her IQ#,#dumb she disses her kids with Yo mama jokes#,#fat she sued xbox 360 for guessing her weight#,#fat she don't need the internet she's already world wide#,#fat everytime she walks she does the harlem shake#,#fat she has mass whether the higgs boson exists or not#,#fat all she wants for christmas is to see her feet#,#fat she ate a whole Pizza...Hut#,!#fat Burger King hired her because she eats cows and shits hamburgers
+NOUN
+ignore1,ignore2,ignore3
+
+SCIFI
+SUBJECT
+ignore1,ignore2,ignore3
+ADJECTIVE
+nerf-herding,frizzled,hairbrained,crosseyed,scatterbrained,weirdest,dysfunctional,disgusting,smelly,useless,worthless,idiotic,lackluster
+NOUN
+sith,stormtrooper,bog-beast,shavit,shab,druk,cylon,clone,alien,mandalorian,cyborg,robot,terminator,bantha fodder,hutt-spawn,laserbrain,lurdo,nerf herder,scluag,sleemo,son of a blaster,stoopa,vong,sith-spit,buffoon,red shirt,cadet,pilot,starfighter,jedi
+LOCATION
+universe,galaxy far far away,Milky Way Galaxy,Death Star,Tatooine,USS Enterprise,Galactic Federation,Empire,Andromeda System,District 9,the solar system,earth,moon,this current area of space
+
+%AKA fantasy
+HIPHOP
+SUBJECT
+ignore1,ignore2,ignore3
+ADJECTIVE
+raging,feeble,clueless,misbegotten,empty-headed,cantankerous,beardless,hideous,tentacled,dainty,willow-waisted,lily-livered,pointy-eared,poetry-reading,ballet-dancing,tree-climbing,tree-hugging,elf-kissing,beard-shaving
+NOUN
+Umbridge,Dumbledore,Voldemort,mudblood@,goblin@,mountain goblin@,hobgoblin@,fool of a took,orc@,hobbit@,gollum,troll@,balrog,troll-friend@,oathbreaker troll-spawn@,cave gherkin@,Lannister@,Hound,Mountain,Snow,Sand,Wildling@,orc-bait@,moss-chewer@,elf but not the good kind,dew-drinker,!bastard,kender
+LOCATION
+Mordor,Hogwarts,Azeroth,Kalimdor,The Red Keep,Narnia,Camp Half-blood,Azkaban,Westeros,Alegaesia,Essos,Scadrial,Ansalon,Krynn,The Dragon Isles,Taladas,Adlatum,Atlantis
+
+SMART
+SUBJECT 
+ignore1,ignore2,ignore3
+ADJECTIVE
+#You are from the trailing edge of the bell curve#,#You are from the shallow end of the gene pool#,#You sure are made up of an unusually high amount of strange particles#,#You are obviously from the trailing edge of the bell curve#,#You argue just like Pi...irrational#,#I would ask for your IQ but I'm afraid a fraction wouldn't count#,#I refuse to engage in a battle of wits with an unarmed man#,#You are a lamentably bantering sycophant#,!#You are a loathsome chronically flatulent tainted spawn of a syphilitic swamp rat#,!#Your birth certificate is an apology from the condom factory#,!#What's the story you tell yourself about why people don't like you?#,#Somewhere out there is a tree tirelessly producing oxygen so you can breathe. I think you owe it an apology#
+NOUN
+ignore1,ignore2,ignore3
+
+NORMAL
+SUBJECT
+heartless,arrogant,ignorant,incompetent,shortsighted,simple,dull,dim,thick-headed,idiotic,guillible,brainless,naive
+ADJECTIVE
+#You are all tip and no iceberg#,#You're all hat and no cattle#,#You're all molotov and no lighter#,annoying,obnoxious,aggravating,disturbing,irritating,troubling,useless,stupid,ugly,unattractive,dumb,fucking
+NOUN
+idiot,!bitch,!son of a bitch,jerk,dunce@,dipstick,!asshole,!shit,!dick,!chode,!phallus,nitwit@,moron@,imbecile@,simpleton@,dork@,!slut,!whore,!tramp,fool@,brute,caveman,numbskull,!jackass,donkey,silly-nilly
+LOCATION
+the room,this building,my immediate vicinity,the world,history of the universe

@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.muhammadmajeed.insultgenerator" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".SelectRate"
+            android:label="@string/title_activity_select_rate" >
+        </activity>
+        <activity
+            android:name=".A_British"
+            android:label="@string/title_activity_a__british" >
+        </activity>
+        <activity
+            android:name=".A_Classical"
+            android:label="@string/title_activity_a__classical" >
+        </activity>
+        <activity
+            android:name=".A_HipHop"
+            android:label="@string/title_activity_a__hip_hop" >
+        </activity>
+        <activity
+            android:name=".A_Fantasy"
+            android:label="@string/title_activity_a__fantasy" >
+        </activity>
+        <activity
+            android:name=".A_Mama"
+            android:label="@string/title_activity_a__mama" >
+        </activity>
+        <activity
+            android:name=".A_Normal"
+            android:label="@string/title_activity_a__normal" >
+        </activity>
+        <activity
+            android:name=".A_Scifi"
+            android:label="@string/title_activity_a__scifi" >
+        </activity>
+        <activity
+            android:name=".A_Smart"
+            android:label="@string/title_activity_a__smart" >
+        </activity>
+        <activity
+            android:name=".P_British"
+            android:label="@string/title_activity_p__british" >
+        </activity>
+        <activity
+            android:name=".P_Classical"
+            android:label="@string/title_activity_p__classical" >
+        </activity>
+        <activity
+            android:name=".P_Fantasy"
+            android:label="@string/title_activity_p__fantasy" >
+        </activity>
+        <activity
+            android:name=".P_HipHop"
+            android:label="@string/title_activity_p__hip_hop" >
+        </activity>
+        <activity
+            android:name=".P_Mama"
+            android:label="@string/title_activity_p__mama" >
+        </activity>
+        <activity
+            android:name=".P_Normal"
+            android:label="@string/title_activity_p__normal" >
+        </activity>
+        <activity
+            android:name=".P_Scifi"
+            android:label="@string/title_activity_p__scifi" >
+        </activity>
+        <activity
+        android:name=".P_Smart"
+        android:label="@string/title_activity_p__smart" >
+        </activity>
+
+
+        <activity
+            android:name=".PGstuff"
+            android:label="@string/title_activity_pgstuff" >
+        </activity>
+
+        <activity
+            android:name=".AdultStuff"
+            android:label="@string/title_activity_adult_stuff" >
+        </activity>
+
+
+
+
+
+
+    </application>
+
+</manifest>
+
+
+
+
